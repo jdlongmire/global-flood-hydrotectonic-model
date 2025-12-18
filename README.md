@@ -29,11 +29,10 @@ Key features:
 │   ├── appendices/                       # Standalone appendix documents
 │   ├── calculations/                     # Technical calculations
 │   ├── literature/                       # Literature reviews and citations
-│   ├── defense/                          # Defense preparation materials
+│   ├── defense/                          # Defense materials and review responses
 │   ├── figures/                          # Generated figures
 │   └── publishing/                       # Zenodo submission materials
 ├── notebooks/                            # Jupyter notebooks with calculations
-├── review-responses/                     # Responses to critiques and reviews
 └── sessions/                             # Development session logs
 ```
 
