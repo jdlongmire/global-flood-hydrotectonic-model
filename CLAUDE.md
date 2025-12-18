@@ -19,6 +19,9 @@ This repository contains the Hydrotectonic Collapse Model - a quantitative frame
 - `theory/defense/` - Defense materials and review responses
 - `theory/figures/` - Generated figures
 - `notebooks/` - Jupyter notebooks with reproducible calculations
+- `reference_validation_protocol/` - Citation verification tools and workflow
+- `issues/` - Open research questions and tracking
+- `planning/` - 8-phase credibility roadmap
 
 ## Behavioral Instructions
 
@@ -37,6 +40,14 @@ Be very helpful but not over enthusiastic - moderation in all things - a healthy
 - Run sanity checks on new quantitative work
 - Acknowledge uncertainties explicitly
 - Distinguish STIPULATED, DERIVED, and ASSUMED parameters
+
+### Citation Validation
+
+- All new citations must be verified before committing
+- Use the Reference Validation Protocol: `reference_validation_protocol/README.md`
+- Run `verify_citation.py` for DOI-based verification
+- Update `theory/literature/CITATION_VALIDATION_REPORT.md` with verification status
+- Pre-DOI papers require 2+ independent sources (VERIFIED_VIA_SECONDARY)
 
 ### Style
 
