@@ -17,30 +17,30 @@ Key features:
 
 ## Quick Start
 
-**Start here:** [`global-hydrotectonics-theory-main.md`](global-hydrotectonics-theory-main.md) - Synthesized overview of the complete theory
+**Start here:** [`theory/global-hydrotectonics-theory-main.md`](theory/global-hydrotectonics-theory-main.md) - Synthesized overview of the complete theory
 
 ## Repository Structure
 
 ```
 .
-├── global-hydrotectonics-theory-main.md  # Synthesized theory overview (START HERE)
-├── theory/                               # Core theoretical materials
-│   ├── papers/                           # Main paper versions (v1.0 - v2.5)
-│   ├── appendices/                       # Standalone appendix documents
-│   ├── calculations/                     # Technical calculations
-│   ├── literature/                       # Literature reviews and citations
-│   ├── defense/                          # Defense materials and review responses
-│   ├── figures/                          # Generated figures
-│   └── publishing/                       # Zenodo submission materials
-├── notebooks/                            # Jupyter notebooks with calculations
-└── sessions/                             # Development session logs
+├── theory/                                        # Core theoretical materials
+│   ├── global-hydrotectonics-theory-main.md       # Synthesized overview (START HERE)
+│   ├── papers/                                    # Main paper versions (v1.0 - v2.5)
+│   ├── appendices/                                # Standalone appendix documents
+│   ├── calculations/                              # Technical calculations
+│   ├── literature/                                # Literature reviews and citations
+│   ├── defense/                                   # Defense materials and review responses
+│   ├── figures/                                   # Generated figures
+│   └── publishing/                                # Zenodo submission materials
+├── notebooks/                                     # Jupyter notebooks with calculations
+└── sessions/                                      # Development session logs
 ```
 
 ## Key Documents
 
 | File | Description |
 |------|-------------|
-| `global-hydrotectonics-theory-main.md` | **Synthesized theory overview** - start here |
+| `theory/global-hydrotectonics-theory-main.md` | **Synthesized theory overview** - start here |
 | `theory/papers/20251217-hydrotectonic-model-complete.md` | Complete model v2.5 with all appendices (A-H) |
 | `theory/papers/hydrotectonic_collapse_paper.pdf` | PDF version of v1.0 paper |
 | `SANITY_CHECK_PROTOCOL.md` | Protocol for validating numerical claims |

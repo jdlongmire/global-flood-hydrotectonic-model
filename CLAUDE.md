@@ -7,19 +7,18 @@ This repository contains the Hydrotectonic Collapse Model - a quantitative frame
 ## Current Status
 
 **Model Version:** v2.5 (Gap Analysis Edition)
-**Synthesized Overview:** `global-hydrotectonics-theory-main.md`
+**Synthesized Overview:** `theory/global-hydrotectonics-theory-main.md`
 **Full Technical Document:** `theory/papers/20251217-hydrotectonic-model-complete.md`
 
 ## Key Files
 
-- `global-hydrotectonics-theory-main.md` - Synthesized theory overview (start here)
+- `theory/global-hydrotectonics-theory-main.md` - Synthesized theory overview (start here)
 - `theory/papers/` - Full papers with all appendices
 - `theory/calculations/` - Detailed technical calculations
 - `theory/literature/` - Literature reviews and citations
-- `theory/defense/` - Responses to objections
+- `theory/defense/` - Defense materials and review responses
 - `theory/figures/` - Generated figures
 - `notebooks/` - Jupyter notebooks with reproducible calculations
-- `review-responses/` - Responses to critiques
 
 ## Behavioral Instructions
 
