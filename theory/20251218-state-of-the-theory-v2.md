@@ -1,6 +1,6 @@
 # State of the Theory
 
-**Hydrotectonic Collapse Model v2.5**
+**Global Flood Hydrotectonics v2.5**
 **Date:** 2025-12-18 (Updated)
 **Author:** James (JD) Longmire
 
@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-The Hybrid Hydrotectonic Model has reached a state of **physical plausibility with quantified gaps**. The core mechanism - continental blocks moving via hydroplaning on thin water films under near-lithostatic pore pressure - resolves the fatal heat problem in catastrophic plate tectonics. Key results are supported by reproducible calculations. However, the model awaits closure on several critical physics questions before claiming full defensibility.
+Global Flood Hydrotectonics has reached a state of **physical plausibility with quantified gaps**. The core mechanism - continental blocks moving via hydroplaning on thin water films under near-lithostatic pore pressure - resolves the fatal heat problem in catastrophic plate tectonics. Key results are supported by reproducible calculations. However, the model awaits closure on several critical physics questions before claiming full defensibility.
 
 **Bottom line:** The model is no longer dismissible as physically impossible. It is now a research programme with explicit hinges that can be tested, refined, or falsified.
 

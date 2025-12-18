@@ -1,4 +1,4 @@
-# Mathematical Appendices: Hybrid Hydrotectonic Model v2.0
+# Mathematical Appendices: Global Flood Hydrotectonics v2.0
 
 **Supporting Calculations for Energy Budget, Heat Dissipation, and Hypercane Physics**
 

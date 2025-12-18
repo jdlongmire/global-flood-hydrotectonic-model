@@ -1,6 +1,8 @@
-# Hybrid Hydrotectonic Model
+# Global Flood Hydrotectonics
 
-A quantitative framework for rapid continental reorganization through hydraulic collapse - a proposed solution to the heat problem in catastrophic plate tectonics.
+**A Quantitative Theory of Rapid Continental Reorganization**
+
+A proposed solution to the heat problem in catastrophic plate tectonics through hydraulic collapse mechanisms.
 
 **Version:** 2.5 (Gap Analysis Edition)
 **Status:** Preprint - submitted to Zenodo for open peer review
@@ -84,7 +86,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 If you use this work, please cite:
 
-> Longmire, J.D. (2025). The Hybrid Hydrotectonic Model: Integrating Fiat Initial Conditions with Catastrophic Discharge (Version 2.5). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Longmire, J.D. (2025). Global Flood Hydrotectonics: A Quantitative Theory of Rapid Continental Reorganization (Version 2.5). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
 ## Feedback
 

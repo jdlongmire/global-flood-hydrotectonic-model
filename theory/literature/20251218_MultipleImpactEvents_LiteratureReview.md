@@ -262,5 +262,5 @@ The geological record demonstrates:
 
 **Compiled by:** Claude (AI assistant)
 **For:** James (JD) Longmire
-**Project:** Hybrid Hydrotectonic Model
+**Project:** Global Flood Hydrotectonics
 **Status:** Initial literature review - may require updates as research progresses

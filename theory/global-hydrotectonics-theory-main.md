@@ -1,23 +1,29 @@
-# The Hybrid Hydrotectonic Model
+# Global Flood Hydrotectonics
 
-**A Quantitative Framework for Rapid Continental Reorganization**
+**A Quantitative Theory of Rapid Continental Reorganization**
 
 ---
 
 **Version:** 2.5 (Synthesized)
 **Author:** James (JD) Longmire | ORCID: [0009-0009-1383-7698](https://orcid.org/0009-0009-1383-7698)
 **Date:** December 2025
-**Status:** Preprint - Open for peer review
+**Status:** Preprint - not peer reviewed; released for open scientific evaluation and critique
+
+---
+
+## How to Read This Document
+
+This document should be read as a *working research programme*, not as a settled or comprehensive theory. Its purpose is to test physical plausibility under constrained assumptions, not to assert historical certainty or claim empirical confirmation. Some boundary conditions are stipulated rather than derived, and these are identified explicitly; subsequent analysis examines whether the proposed mechanisms operate coherently within known physical laws given those conditions. Where quantitative estimates are presented, they are order-of-magnitude unless otherwise stated. Predictions are distinguished from reinterpretations, and unresolved issues are acknowledged without claim of resolution. Readers are encouraged to evaluate the model on its internal consistency, energy and heat accounting, and exposure to potential falsification, rather than on agreement with its underlying metaphysical or interpretive commitments.
 
 ---
 
 ## Executive Summary
 
-The Hybrid Hydrotectonic Model provides a physically coherent framework for rapid global tectonic reorganization during the Genesis Flood. It solves the central objection to catastrophic plate tectonics - the heat problem - by shifting from geothermal to hydraulic driving mechanisms.
+This preprint presents *Global Flood Hydrotectonics* as a working physical research programme exploring whether rapid, large-scale continental reorganization during a global flood event can be made energetically and thermodynamically coherent under known physical laws. The model addresses the longstanding "heat problem" associated with catastrophic plate motion by proposing a hydraulic rather than mantle-viscous driving mechanism, in which continental blocks undergo hydroplaning along fluid-saturated detachment horizons under conditions of near-lithostatic pore pressure.
 
-**Core Innovation:** Continental blocks move by hydroplaning on thin water films along shallow detachment horizons, not by accelerated mantle convection. Energy dissipation occurs in water rather than through viscous mantle shear, reducing heat generation by two orders of magnitude.
+**Core Innovation:** Using Terzaghi's effective stress principle, continental blocks move by hydroplaning on thin water films along shallow detachment horizons, not by accelerated mantle convection. Energy dissipation occurs in water rather than through viscous mantle shear, reducing heat generation by two orders of magnitude.
 
-**Key Results:**
+**Key Results (Order-of-Magnitude):**
 - Heat flux: ~20 W/m² (vs. ~600 W/m² in conventional catastrophic models)
 - Global temperature rise: <1 K (vs. hundreds of Kelvin)
 - Energy source: Gravitational potential energy (~10²⁵ J) stored at Creation
@@ -26,9 +32,11 @@ The Hybrid Hydrotectonic Model provides a physically coherent framework for rapi
 
 | Stage | Name | Mechanism | Duration |
 |-------|------|-----------|----------|
-| 0 | Fiat/Creation | Supernatural emplacement of initial conditions | Instantaneous |
+| 0 | Fiat/Creation | Stipulated initial conditions | Instantaneous |
 | 1 | Stasis | Metastable equilibrium under physical law | Antediluvian era |
 | 2 | Discharge | Hydraulic collapse triggered by seal failure | ~1 year |
+
+The framework explicitly separates novel, discriminating predictions from post-hoc reinterpretations of existing observations. Quantitative estimates, reproducible calculations, and known uncertainties are presented transparently. The work does not claim confirmation, consensus, or completeness, but aims to establish whether the proposed mechanism constitutes a physically plausible research programme exposed to empirical risk and amenable to further testing, refinement, or falsification.
 
 ---
 
@@ -50,7 +58,7 @@ Any model proposing rapid, global-scale tectonic reorganization must confront th
 
 The biblical text provides a boundary condition: "Let the dry land appear" (Genesis 1:9). This implies vertical separation - continents elevated while ocean basins sink.
 
-**Physical Translation:** To raise buoyant continents to ~2 km average freeboard while maintaining isostatic equilibrium requires dense "ballast" positioned deep in the mantle. The model identifies the cold slabs observed in seismic tomography as this **Created Ballast** - emplaced supernaturally rather than subducted over millions of years.
+**Physical Translation:** To raise buoyant continents to ~2 km average freeboard while maintaining isostatic equilibrium requires dense "ballast" positioned deep in the mantle. The model interprets cold slabs observed in seismic tomography as consistent with a **Created Ballast** hypothesis, rather than requiring long-term subduction.
 
 **The Gravitational Battery:** Stage 0 emplacement stores ~10²⁵ J of gravitational potential energy - sufficient to power Stage 2 reorganization without requiring thermal convection.
 
@@ -250,7 +258,11 @@ van der Hilst, R.D., et al. (1997). Evidence for deep mantle circulation from gl
 
 **Contact:** jdlongmire@outlook.com
 
+**Repository:** [github.com/jdlongmire/global-flood-hydrotectonic-model](https://github.com/jdlongmire/global-flood-hydrotectonic-model)
+
 **License:** CC BY 4.0
 
 **Citation:**
-> Longmire, J.D. (2025). The Hybrid Hydrotectonic Model: Integrating Fiat Initial Conditions with Catastrophic Discharge (Version 2.5). Zenodo.
+> Longmire, J.D. (2025). Global Flood Hydrotectonics: A Quantitative Theory of Rapid Continental Reorganization (Version 2.5). Zenodo.
+
+**Collaboration:** This is an open research programme built on reproducible Jupyter notebooks. Contributions welcome - especially computational modeling of pressure stability, permeability evolution, thermal feedback, and discriminating predictions. Open an issue or contact the author.
