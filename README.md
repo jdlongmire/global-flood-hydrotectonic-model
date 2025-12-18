@@ -19,24 +19,27 @@ Key features:
 
 ```
 .
-├── 20251217-hydrotectonic-model-complete.md   # Main model document (v2.5)
-├── notebooks/                                  # Jupyter notebooks with calculations
-│   ├── 20251217_energy_partitioning_simulation.ipynb
-│   └── 20251217_gap_analysis.ipynb
-├── figures/                                    # Generated figures
-├── review-responses/                           # Responses to critiques and reviews
-├── supporting-data/                            # Citations, calculations, defense materials
-└── sessions/                                   # Development session logs
+├── theory/                        # Core theoretical materials
+│   ├── papers/                    # Main paper versions (v1.0 - v2.5)
+│   ├── appendices/                # Standalone appendix documents
+│   ├── calculations/              # Technical calculations
+│   ├── literature/                # Literature reviews and citations
+│   ├── defense/                   # Defense preparation materials
+│   ├── figures/                   # Generated figures
+│   └── publishing/                # Zenodo submission materials
+├── notebooks/                     # Jupyter notebooks with calculations
+├── review-responses/              # Responses to critiques and reviews
+└── sessions/                      # Development session logs
 ```
 
 ## Key Documents
 
 | File | Description |
 |------|-------------|
-| `20251217-hydrotectonic-model-complete.md` | Complete model with all appendices (A-H) |
-| `hydrotectonic_collapse_paper.pdf` | PDF version of v1.0 paper |
+| `theory/papers/20251217-hydrotectonic-model-complete.md` | Complete model v2.5 with all appendices (A-H) |
+| `theory/papers/hydrotectonic_collapse_paper.pdf` | PDF version of v1.0 paper |
 | `SANITY_CHECK_PROTOCOL.md` | Protocol for validating numerical claims |
-| `CITATION_VALIDATION_REPORT.md` | Verification of cited sources |
+| `theory/literature/CITATION_VALIDATION_REPORT.md` | Verification of cited sources |
 
 ## Appendices
 
@@ -52,7 +55,7 @@ The main document includes:
 
 ## Reproducibility
 
-All numerical calculations are documented in Jupyter notebooks under `notebooks/`. Figures in the main document are generated from these simulations.
+All numerical calculations are documented in Jupyter notebooks under `notebooks/`. Figures in the main document are generated from these simulations and stored in `theory/figures/`.
 
 ## Framework
 
