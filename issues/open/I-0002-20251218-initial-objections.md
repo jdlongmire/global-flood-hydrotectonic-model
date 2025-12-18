@@ -48,7 +48,31 @@ Systematically capture objections raised in initial discussions. These feed dire
 
 ## Source Discussions
 
-- [ ] List discussion sources as they accumulate
+### Baseline Post: "The Global Flood as a Credible Scientific Research Programme"
+
+**Platform:** [TBD]
+**Date:** 2025-12-18
+
+**Summary:** A Lakatosian assessment arguing the Flood framework meets credibility criteria:
+1. Internal coherence
+2. No violation of physical law
+3. Predictive (not just post hoc)
+4. Exposed to falsification
+5. Positive heuristic for further research
+
+**Key Claims Made:**
+- Heat problem resolved via hydraulic decoupling (not mantle shear)
+- Framework predicts: soft tissue preservation, mixed assemblages, catastrophic deposition, polystrate fossils, Lazarus taxa, crustal water
+- Falsifiable by: failure to close budgets, impossibility of catastrophic transport, incompatible stratigraphy, absence of predicted preservation
+- Limitations are quantitative/infrastructural, not conceptual/law-violating
+
+**Reference:** Longmire, J. (2025). Rapid Continental Reorganization Through Hydraulic Collapse (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17663309
+
+---
+
+### Objections Thread
+
+(Add objections below as they occur)
 
 ---
 

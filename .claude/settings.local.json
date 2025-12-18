@@ -28,7 +28,8 @@
       "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" add .claude/settings.local.json)",
       "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" commit -m \"Update local settings\")",
       "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" push)",
-      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" commit -m \"$\\(cat <<''EOF''\nAdd I-0002: Initial objections tracking\n\n- Capture and catalog objections from discussions\n- Processing workflow: capture → categorize → triage → respond\n- Feeds into Phase 0 falsifier list\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" commit -m \"$\\(cat <<''EOF''\nAdd I-0002: Initial objections tracking\n\n- Capture and catalog objections from discussions\n- Processing workflow: capture → categorize → triage → respond\n- Feeds into Phase 0 falsifier list\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" commit -m \"$\\(cat <<''EOF''\nAdd baseline post for objections tracking\n\n- theory/defense/20251218-lakatosian-assessment-post.md - Full post text\n- Updated I-0002 with baseline summary and key claims\n- Lakatosian framework: coherence, physical law, prediction, falsification, heuristic\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }
