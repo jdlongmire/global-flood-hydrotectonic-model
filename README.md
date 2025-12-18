@@ -15,27 +15,33 @@ Key features:
 - Reduces heat generation by orders of magnitude while maintaining rapid surface motion
 - Generates testable predictions distinguishing it from both uniformitarian and geothermally driven catastrophic models
 
+## Quick Start
+
+**Start here:** [`global-hydrotectonics-theory-main.md`](global-hydrotectonics-theory-main.md) - Synthesized overview of the complete theory
+
 ## Repository Structure
 
 ```
 .
-├── theory/                        # Core theoretical materials
-│   ├── papers/                    # Main paper versions (v1.0 - v2.5)
-│   ├── appendices/                # Standalone appendix documents
-│   ├── calculations/              # Technical calculations
-│   ├── literature/                # Literature reviews and citations
-│   ├── defense/                   # Defense preparation materials
-│   ├── figures/                   # Generated figures
-│   └── publishing/                # Zenodo submission materials
-├── notebooks/                     # Jupyter notebooks with calculations
-├── review-responses/              # Responses to critiques and reviews
-└── sessions/                      # Development session logs
+├── global-hydrotectonics-theory-main.md  # Synthesized theory overview (START HERE)
+├── theory/                               # Core theoretical materials
+│   ├── papers/                           # Main paper versions (v1.0 - v2.5)
+│   ├── appendices/                       # Standalone appendix documents
+│   ├── calculations/                     # Technical calculations
+│   ├── literature/                       # Literature reviews and citations
+│   ├── defense/                          # Defense preparation materials
+│   ├── figures/                          # Generated figures
+│   └── publishing/                       # Zenodo submission materials
+├── notebooks/                            # Jupyter notebooks with calculations
+├── review-responses/                     # Responses to critiques and reviews
+└── sessions/                             # Development session logs
 ```
 
 ## Key Documents
 
 | File | Description |
 |------|-------------|
+| `global-hydrotectonics-theory-main.md` | **Synthesized theory overview** - start here |
 | `theory/papers/20251217-hydrotectonic-model-complete.md` | Complete model v2.5 with all appendices (A-H) |
 | `theory/papers/hydrotectonic_collapse_paper.pdf` | PDF version of v1.0 paper |
 | `SANITY_CHECK_PROTOCOL.md` | Protocol for validating numerical claims |
