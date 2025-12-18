@@ -209,6 +209,12 @@ The ratio is approximately **10,000:1**. Gravitational potential energy released
 - Isotopic signatures of deep water (surface-derived vs. primordial)
 - Thermal gradient analysis distinguishing "emplaced cold" from "slowly subducted cold"
 
+### Speculative Implication: Geomagnetic Excursions
+
+The extreme hydrotectonic activity proposed for Stage 2 entails rapid global mass redistribution, transient thermal boundary changes at the core-mantle interface, and sustained large-scale conductive fluid motion. Each of these processes is independently known to influence geomagnetic field behavior. Acting concurrently, they provide a plausible mechanism for repeated geomagnetic excursions or rapid directional instabilities during the flood interval, without requiring long-term dynamo shutdown or stable polarity reversals. This interpretation predicts compressed paleomagnetic sequences characterized by abrupt directional variability and intensity collapse rather than prolonged transitional states.
+
+*Note: This is among the model's more speculative components. See I-0004 for detailed exploration.*
+
 ---
 
 ## 6. Limitations and Open Questions
@@ -222,6 +228,28 @@ This model acknowledges unresolved issues:
 5. **Spatial heterogeneity:** Model treats blocks uniformly; actual motion would be variable
 
 These are modeling challenges, not physical impossibilities.
+
+### Open Exploration Directions
+
+The following questions define the empirical risk and future testability of this research programme:
+
+1. **Timescale compression:** Can hydrotectonic, hydration, and depositional processes proceed at flood-year timescales without violating chemical, mechanical, or magnetic relaxation limits?
+
+2. **Permeability evolution:** Can global-scale permeability increase during failure and collapse fast enough to trap fluids post-event?
+
+3. **Energy partitioning robustness:** Is hydrotectonic dominance over geothermal contributions stable across reasonable parameter bounds?
+
+4. **Water budget quantification:** Is inferred once-mobile water volume consistent with mineral hydration capacities and mobilization efficiencies?
+
+5. **Mineralogical discrimination:** Do hydration textures or isotopic signatures distinguish rapid global hydration from prolonged subduction-driven hydration?
+
+6. **Sediment transport:** Can hydrotectonic-driven turbidity reproduce observed volumes and sorting patterns without long timescales?
+
+7. **Geomagnetic excursions:** Can rapid mass redistribution and fluid flow generate multiple excursions within a compressed interval?
+
+8. **Falsifiability targets:** Which single observation would most decisively falsify the framework?
+
+*See I-0005 for detailed sub-issues and phase mapping.*
 
 ---
 
