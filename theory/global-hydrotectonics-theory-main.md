@@ -4,10 +4,24 @@
 
 ---
 
+![Channeled-Porosity Architecture](figures/channeled-porosity.png)
+
+*Figure: Channeled-porosity architecture enabling sustained pore pressure during Stage 2 collapse. High-permeability channels supply water faster than low-permeability matrix can drain it.*
+
+---
+
 **Version:** 2.5 (Synthesized)
-**Author:** James (JD) Longmire | ORCID: [0009-0009-1383-7698](https://orcid.org/0009-0009-1383-7698)
+
+**Author:** James (JD) Longmire
+ORCID: [0009-0009-1383-7698](https://orcid.org/0009-0009-1383-7698)
+
 **Date:** December 2025
+
 **Status:** Preprint - not peer reviewed; released for open scientific evaluation and critique
+
+**Repository:** [github.com/jdlongmire/global-flood-hydrotectonic-model](https://github.com/jdlongmire/global-flood-hydrotectonic-model)
+
+**Contact:** jdlongmire@outlook.com
 
 ---
 
@@ -249,6 +263,8 @@ The following questions define the empirical risk and future testability of this
 
 8. **Falsifiability targets:** Which single observation would most decisively falsify the framework?
 
+**Cross-cutting constraint:** Timescale compression (#1) is the highest-risk issue because it affects hydration kinetics, sediment transport, and paleomagnetic remanence acquisition simultaneously. If any one of these processes demonstrably requires timescales incompatible with the model, the framework fails at multiple points.
+
 *See I-0005 for detailed sub-issues and phase mapping.*
 
 ---
@@ -315,6 +331,63 @@ Moore, J.C., and Saffer, D. (2001). Updip limit of the seismogenic zone. Geology
 Pearson, D.G., et al. (2014). Hydrous mantle transition zone indicated by ringwoodite included within diamond. Nature.
 
 van der Hilst, R.D., et al. (1997). Evidence for deep mantle circulation from global tomography. Nature.
+
+---
+
+## Appendix: Research Programme and Open Problems
+
+This appendix summarizes the structured research agenda embedded in this paper. Issues are ranked by expected reviewer attack likelihood.
+
+### High-Priority Constraints (Attack Likely)
+
+| Rank | Issue | Why Vulnerable |
+|------|-------|----------------|
+| 1 | **Timescale compression** | Cross-cutting: affects hydration, sedimentation, paleomagnetism. Most common objection. |
+| 2 | **Permeability evolution** | Core mechanism depends on it. No validated constitutive law exists. |
+| 3 | **Energy partitioning** | Underpins heat problem solution. Sensitivity to assumptions will be probed. |
+
+### Medium-Priority Constraints (Engagement Possible)
+
+| Rank | Issue | Why Relevant |
+|------|-------|--------------|
+| 4 | **Water budget** | "Where did the water go?" is intuitive. Mineral sequestration argument is less familiar. |
+| 5 | **Mineralogical discrimination** | Empirical: could yield discriminating evidence if pursued. |
+| 6 | **Sediment transport** | Connects deep mechanism to surface geology. Reviewers may demand observational links. |
+
+### Lower-Priority Constraints (Derivative)
+
+| Rank | Issue | Notes |
+|------|-------|-------|
+| 7 | **Geomagnetic excursions** | Marked speculative. Defended by I-0004. Not core. |
+| 8 | **Falsifiability targets** | Actually strengthens paper. Unlikely to be attacked. |
+
+### Core Claims (Not Negotiable)
+
+These claims define the research programme's hard core:
+
+1. Continental motion via hydraulic decoupling, not accelerated mantle convection
+2. Gravitational PE as primary energy source (~$10^{25}$ J)
+3. Terzaghi effective stress principle driving friction collapse
+4. Stage 0 stipulated initial conditions (boundary condition, not modeled)
+
+### Protective Belt (Modifiable)
+
+These auxiliary hypotheses can be adjusted without abandoning the core:
+
+- Specific trigger mechanism (meteors vs. other)
+- Exact detachment depth
+- Hypercane efficiency parameters
+- Episodic vs. continuous motion
+- Permeability evolution law (once constrained)
+
+### Discriminating Predictions
+
+The programme advances if these are confirmed; it degenerates if they fail:
+
+- Structural unconformity at ~200 km depth
+- Fluid-dominated detachment fabrics (not pseudotachylite)
+- Rapid-hydration mineral textures
+- Compressed paleomagnetic sequences (if geomagnetic claim pursued)
 
 ---
 
