@@ -26,7 +26,9 @@
       "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" commit -m \"$\\(cat <<''EOF''\nAdd session log updates and Pangaea figure\n\n- sessions/20251218-session.md - Updated with planning work\n- theory/figures/Pangaea_continents.svg - Continental reconstruction figure\n- .claude/settings.local.json - Local settings update\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" log --oneline -5)",
       "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" add .claude/settings.local.json)",
-      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" commit -m \"Update local settings\")"
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" commit -m \"Update local settings\")",
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" push)",
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" commit -m \"$\\(cat <<''EOF''\nAdd I-0002: Initial objections tracking\n\n- Capture and catalog objections from discussions\n- Processing workflow: capture → categorize → triage → respond\n- Feeds into Phase 0 falsifier list\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }
