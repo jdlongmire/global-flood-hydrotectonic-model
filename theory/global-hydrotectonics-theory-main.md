@@ -24,9 +24,9 @@ This preprint presents *Global Flood Hydrotectonics* as a working physical resea
 **Core Innovation:** Using Terzaghi's effective stress principle, continental blocks move by hydroplaning on thin water films along shallow detachment horizons, not by accelerated mantle convection. Energy dissipation occurs in water rather than through viscous mantle shear, reducing heat generation by two orders of magnitude.
 
 **Key Results (Order-of-Magnitude):**
-- Heat flux: ~20 W/m² (vs. ~600 W/m² in conventional catastrophic models)
+- Heat flux: ~20 W/m$^2$ (vs. ~600 W/m$^2$ in conventional catastrophic models)
 - Global temperature rise: <1 K (vs. hundreds of Kelvin)
-- Energy source: Gravitational potential energy (~10²⁵ J) stored at Creation
+- Energy source: Gravitational potential energy (~$10^{25}$ J) stored at Creation
 
 **The Three-Stage Framework:**
 
@@ -44,9 +44,9 @@ The framework explicitly separates novel, discriminating predictions from post-h
 
 Any model proposing rapid, global-scale tectonic reorganization must confront the energy budget. In standard plate tectonics, continental drift occurs at centimeters per year. Accelerating this to kilometers per day generates heat that scales with velocity squared.
 
-**The Physical Constraint:** For viscous flow, dissipation increases as v². A hundred-fold acceleration produces ten-thousand-fold increase in heat generation. This heat exceeds Earth's radiative capacity, causing surface temperatures sufficient to vaporize oceans.
+**The Physical Constraint:** For viscous flow, dissipation increases as $v^2$. A hundred-fold acceleration produces ten-thousand-fold increase in heat generation. This heat exceeds Earth's radiative capacity, causing surface temperatures sufficient to vaporize oceans.
 
-**The Conventional Objection:** Moving continental blocks thousands of kilometers in one year, using conventional friction assumptions, generates ~600 W/m² heat flux - nearly half the power of sunlight. This would be instantly lethal.
+**The Conventional Objection:** Moving continental blocks thousands of kilometers in one year, using conventional friction assumptions, generates ~600 W/m$^2$ heat flux - nearly half the power of sunlight. This would be instantly lethal.
 
 **The Hydrotectonic Solution:** The model achieves a 100× reduction in heat generation through Terzaghi's effective stress principle. When pore pressure approaches lithostatic stress, effective normal stress drops to ~1% of full lithostatic, and friction becomes negligible.
 
@@ -60,7 +60,7 @@ The biblical text provides a boundary condition: "Let the dry land appear" (Gene
 
 **Physical Translation:** To raise buoyant continents to ~2 km average freeboard while maintaining isostatic equilibrium requires dense "ballast" positioned deep in the mantle. The model interprets cold slabs observed in seismic tomography as consistent with a **Created Ballast** hypothesis, rather than requiring long-term subduction.
 
-**The Gravitational Battery:** Stage 0 emplacement stores ~10²⁵ J of gravitational potential energy - sufficient to power Stage 2 reorganization without requiring thermal convection.
+**The Gravitational Battery:** Stage 0 emplacement stores ~$10^{25}$ J of gravitational potential energy - sufficient to power Stage 2 reorganization without requiring thermal convection.
 
 **Methodological Note:** Stage 0 invokes supernatural causation for initial conditions only. This is methodologically parallel to cosmological models that accept Big Bang initial conditions while modeling subsequent evolution through natural law.
 
@@ -82,7 +82,7 @@ Following Stage 0, Earth existed in a high-energy but stable configuration. Stab
 
 **Mechanism - Effective Stress Collapse:**
 
-As pore pressure (P_p) approaches lithostatic stress (σ_L):
+As pore pressure ($P_p$) approaches lithostatic stress ($\sigma_L$):
 
 $$\sigma_{eff} = \sigma_L - P_p \rightarrow 0$$
 
@@ -127,22 +127,22 @@ Fossil order emerges from three non-temporal factors:
 ### Available Energy
 | Component | Energy (J) |
 |-----------|-----------|
-| Single continental block settling 1 km | 10²⁴ |
-| 10 major blocks settling | 10²⁵ |
+| Single continental block settling 1 km | $10^{24}$ |
+| 10 major blocks settling | $10^{25}$ |
 
 ### Energy Partitioning (from numerical simulation)
 | Sink | Percentage | Energy (J) |
 |------|------------|------------|
-| Frictional dissipation | 5.0% | 3.2×10²³ |
-| Viscous dissipation | 0.5% | 3.2×10²² |
-| Seismic radiation | 0.25% | 1.6×10²² |
-| Residual PE (blocks in new equilibrium) | 94.2% | 6.0×10²⁴ |
+| Frictional dissipation | 5.0% | $3.2 \times 10^{23}$ |
+| Viscous dissipation | 0.5% | $3.2 \times 10^{22}$ |
+| Seismic radiation | 0.25% | $1.6 \times 10^{22}$ |
+| Residual PE (blocks in new equilibrium) | 94.2% | $6.0 \times 10^{24}$ |
 
 ### Heat Flux Comparison
 | Model | Heat Flux | Global Warming |
 |-------|-----------|----------------|
-| Conventional catastrophic | ~600 W/m² | Lethal (hundreds K) |
-| Hydrotectonic | ~20 W/m² | <1 K |
+| Conventional catastrophic | ~600 W/m$^2$ | Lethal (hundreds K) |
+| Hydrotectonic | ~20 W/m$^2$ | <1 K |
 
 The 100× reduction arises entirely from pore pressure effects (Terzaghi's principle).
 
