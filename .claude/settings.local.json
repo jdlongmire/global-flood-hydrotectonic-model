@@ -8,7 +8,22 @@
       "Bash(ls:*)",
       "Bash(git mv:*)",
       "WebSearch",
-      "WebFetch(domain:en.wikipedia.org)"
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:commons.wikimedia.org)",
+      "WebFetch(domain:geology.com)",
+      "WebFetch(domain:s-ink.org)",
+      "WebFetch(domain:svs.gsfc.nasa.gov)",
+      "WebFetch(domain:www.tectonics.caltech.edu)",
+      "Bash(curl:*)",
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" status)",
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" add issues/)",
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" commit -m \"$\\(cat <<''EOF''\nAdd issues tracking folder structure\n\n- README with issue template and categories\n- open/ and resolved/ subfolders\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" add issues/open/I-0001-20251218-planning.md)",
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" commit -m \"$\\(cat <<''EOF''\nAdd I-0001: Credibility roadmap - 7-phase plan\n\nMaster roadmap for advancing model from plausible to fully defensible:\n- Phase 0: Repo discipline and claim-scope locking\n- Phase 1: Minimal coupled model \\(the hinge\\)\n- Phase 2: Dimensionless regime map\n- Phase 3: Supply and storage bounds\n- Phase 4: Thermal pressurization and phase stability\n- Phase 5: Scaling to continent-scale\n- Phase 6: Observable predictions\n- Phase 7: External validation track\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" add planning/)",
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" commit -m \"$\\(cat <<''EOF''\nAdd planning folder with 8-phase credibility roadmap\n\nStructure:\n- planning/README.md - Overview with phase status and gaps\n- phase-0-repo-discipline/ - Claim scope locking \\(Active\\)\n- phase-1-coupled-model/ - PDE model with permeability laws\n- phase-2-regime-map/ - Dimensionless numbers and diagrams\n- phase-3-supply-bounds/ - Storage and release constraints\n- phase-4-thermal-stability/ - Phase boundaries, cavitation\n- phase-5-scaling/ - Micro/meso/macro hierarchy\n- phase-6-predictions/ - Observable discriminators\n- phase-7-validation/ - Preprint and external review\n\nEach phase has deliverables checklist and success criteria.\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" add -A)",
+      "Bash(git -C \"C:/Users/jdlon/OneDrive/Documents/global-flood-hydrotectonic-model\" commit -m \"$\\(cat <<''EOF''\nAdd session log updates and Pangaea figure\n\n- sessions/20251218-session.md - Updated with planning work\n- theory/figures/Pangaea_continents.svg - Continental reconstruction figure\n- .claude/settings.local.json - Local settings update\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }
