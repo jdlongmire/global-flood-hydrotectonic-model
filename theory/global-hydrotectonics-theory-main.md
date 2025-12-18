@@ -76,6 +76,34 @@ Following Stage 0, Earth existed in a high-energy but stable configuration. Stab
 
 **The Channeled-Porosity Architecture:** A critical feature - not sealed compartments but an open-flow system with continuous water supply. This determines which physics governs Stage 2: submarine hydroplaning physics rather than fault-valve drainage.
 
+### Mineralogical Evidence for Prior Water Mobility
+
+The model requires that substantially more water was mobile in the past than is accessible today. This is not merely stipulated - it is recorded in Earth's mineral inventory.
+
+**The Ringwoodite Evidence:** In 2014, Pearson et al. reported a hydrous ringwoodite inclusion trapped within a diamond from the mantle transition zone (~520-660 km depth). This single crystal contained ~1.5 wt% $H_2O$ - direct evidence that the transition zone has hosted significant water. Ringwoodite can only incorporate water during formation under elevated water fugacity. The water now locked in this mineral was once mobile.
+
+| Mineral / Phase | Depth Range | $H_2O$ Capacity | Hydration Requirement | Relevance |
+|-----------------|-------------|-----------------|----------------------|-----------|
+| **Ringwoodite** | ~520-660 km | ~1-3 wt% | Requires prior mobile water at high pressure | Demonstrates large-scale sequestration following high-pressure hydration |
+| **Wadsleyite** | ~410-520 km | Up to ~3 wt% | Hydrates only under elevated water fugacity | Indicates extensive water-rich regime preceding present conditions |
+| **Serpentine group** | Upper mantle/lithosphere | ~10-15 wt% | Forms by hydration of peridotite via liquid water | Records large-scale infiltration consistent with transient fluid mobilization |
+| **Brucite** | Upper mantle | ~30 wt% (local) | Requires excess water during hydration | Temporary water sink during rapid hydration events |
+| **Chlorite** | Lower crust to upper mantle | ~10-13 wt% | Forms under water-rich metamorphic conditions | Supports widespread fluid involvement beyond isolated faults |
+| **NAMs (olivine, pyroxene, garnet)** | Crust to deep mantle | Tens-hundreds ppm | Requires elevated water fugacity | Indicates pervasive hydration exceeding present-day background |
+| **DHMS phases** | Transition zone to lower mantle | Up to several wt% | Stable only at high pressure with abundant water | Extends plausible depth of water sequestration |
+
+*The widespread occurrence of hydrous and hydrogen-bearing mantle minerals is interpreted here not merely as storage capacity, but as physical evidence of a prior regime characterized by substantially greater water mobility and elevated pore pressures, followed by large-scale sequestration during system relaxation.*
+
+### Hydration as Dissipative Endpoint
+
+The hydrotectonic collapse provides the conditions necessary for rapid, large-scale mineral hydration. During Stage 2, pore pressures approach lithostatic, effective stress collapses, and water is forced into grain boundaries, fracture networks, and reaction fronts under near-failure conditions. This is not slow percolation but forced infiltration at system scale.
+
+Elevated temperature (from deformation and friction) combined with sustained high pressure dramatically accelerates hydration kinetics. Serpentinization, brucite and chlorite formation, hydrogen incorporation into nominally anhydrous minerals, and hydration of transition-zone phases all proceed rapidly when water activity is high and stress barriers are low - precisely the conditions the model provides.
+
+As the event progresses and hydraulic energy dissipates, water transitions from free mobile fluid to chemically bound $OH^-$ and $H^+$ in mineral lattices. Mineral hydration thus functions as a dissipative endpoint: a water sink that absorbs mobile fluid during pressure decay. Once pore pressures fall, fracture permeability collapses, and temperature gradients normalize, the system becomes mechanically stiff and hydraulically isolated. Bound water is no longer mobile. The modern low-flux Earth regime begins.
+
+**Testable signatures:** This mechanism predicts texturally rapid hydration fronts, minimal overprinting, and spatial mismatch between hydration extent and long-term subduction geometry. These are measurable. If absent, the model fails. If present, slow-only explanations weaken.
+
 ### Stage 2: The Flood Event (Discharge)
 
 **Trigger:** Large meteor impacts generated shockwaves that fractured aquitard layers, initiating cascading seal failure across global scales.
@@ -145,6 +173,19 @@ Fossil order emerges from three non-temporal factors:
 | Hydrotectonic | ~20 W/m$^2$ | <1 K |
 
 The 100× reduction arises entirely from pore pressure effects (Terzaghi's principle).
+
+### Hydrotectonic vs. Geothermal Work
+
+Although magmatic and geothermal processes likely contributed work during Stage 2, the dominant mechanical driver in this model is hydrotectonic collapse. The comparison:
+
+| Energy Source | Flood-Year Energy (J) | Basis |
+|---------------|----------------------|-------|
+| Gravitational PE (hydrotectonic) | ~$10^{25}$ | 10 major blocks settling ~1 km |
+| Geothermal flux (integrated) | ~$1.4 \times 10^{21}$ | 0.09 W/m$^2$ × Earth surface × 1 year |
+
+The ratio is approximately **10,000:1**. Gravitational potential energy released by rapid block reorganization couples primarily into high-pressure fluid flow and low-effective-stress detachment motion. Geothermal flux is a secondary contributor to the flood-year energy budget relative to hydraulically mediated mechanical work.
+
+**Falsifiability:** This dominance claim is testable. If independent constraints show that required hydrotectonic dissipation is comparable to or less than plausible flood-year geothermal/magmatic work, the model's central driver assumption fails.
 
 ---
 
